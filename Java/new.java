@@ -1,0 +1,6 @@
+class New {
+	public static void main(String[] args){
+		int v = 7;
+		System.out.println("The value of v is: " + v);
+	}
+}

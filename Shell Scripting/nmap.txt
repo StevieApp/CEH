@@ -1,0 +1,40 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-05-12 08:25 EDT
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-05-12 08:25 EDT
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-05-12 08:25 EDT
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-05-12 08:25 EDT
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-05-12 08:25 EDT
+Nmap scan report for 192.168.100.1
+Host is up (0.0042s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 1.22 seconds
+Nmap scan report for 192.168.100.76
+Host is up (0.0028s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for 192.168.100.98
+Nmap done: 1 IP address (1 host up) scanned in 1.35 seconds
+Host is up (0.0026s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap done: 1 IP address (1 host up) scanned in 1.35 seconds
+Nmap scan report for 192.168.100.101
+Host is up (0.0013s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap done: 1 IP address (1 host up) scanned in 1.37 seconds
+Nmap scan report for 192.168.100.5
+Host is up (0.0017s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap done: 1 IP address (1 host up) scanned in 1.38 seconds

@@ -1,0 +1,16 @@
+Script started on 2020-04-12 17:10:22-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="166" LINES="37"]
+]0;kali@kali: ~[01;31mkali@kali[00m:[01;34m~[00m$ whatwebdpkg --get-selections[C[C[C[C[C[C[C[C[C[C[C[C[C[4Psudo shutdown now[C[C[C[C[C[C[C[C[C[C[C[C[Cdpkg --get-selections[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pwhatweb[Kwhatwebdpkg --get-selections[C[C[C[C[C[C[C[C[C[C[C[C[C[4Psudo shutdown now[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Phutdown nowls[Knetshifconfigsudo ifconfigapt install net-tools[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cyum[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cifconfig[K config[1Ppconfigfconfig[Kipconfigf config[1Pconfigsudo yum install net-tools[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Pifconfig[5Pifconfig[3Pnetsh[3Plsshutdown now[Kudo shutdown now[C[C[C[C[C[C[C[C[C[C[C[C[Cdpkg --get-selections[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pwhatweb[K[K[K[K[K[K[Knew[K[K[Kjava New.java
+Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+Error: Could not find or load main class New.java
+Caused by: java.lang.ClassNotFoundException: New.java
+]0;kali@kali: ~[01;31mkali@kali[00m:[01;34m~[00m$ java New
+Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+Error: Could not find or load main class New
+Caused by: java.lang.ClassNotFoundException: New
+]0;kali@kali: ~[01;31mkali@kali[00m:[01;34m~[00m$ java new.java
+Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+The value of v is:7
+]0;kali@kali: ~[01;31mkali@kali[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-04-12 17:11:34-04:00 [COMMAND_EXIT_CODE="0"]

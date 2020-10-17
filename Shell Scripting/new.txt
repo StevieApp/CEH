@@ -1,0 +1,43 @@
+this is freaking awesome
+
+total 244468
+drwxr-xr-x 17 kali kali      4096 May 10 05:25 .
+drwxr-xr-x  4 root root      4096 May  6 03:50 ..
+-rw-r--r--  1 kali kali       145 May  6 03:45 all.txt
+-rw-r--r--  1 kali kali      8112 May  8 06:21 .bash_history
+-rw-r--r--  1 kali kali       220 Jan 27 12:50 .bash_logout
+-rw-r--r--  1 kali kali      3391 Jan 27 12:50 .bashrc
+-rw-r--r--  1 kali kali      3526 Jan 27 12:50 .bashrc.original
+drwxr-xr-x 12 kali kali      4096 May 10 03:46 .cache
+drwx------ 15 kali kali      4096 May 10 05:16 .config
+-rw-r--r--  1 kali kali 151010243 Feb  2 23:31 DaniLeigh - Easy (Remix) ft. Chris Brown-7Nbv3reNErw.mp4
+drwx------  3 kali kali      4096 Apr 25 05:47 .dbus
+drwxr-xr-x  2 kali kali      4096 Apr 23 07:22 Desktop
+-rw-r--r--  1 kali kali        55 Jan 27 12:52 .dmrc
+drwxr-xr-x  2 kali kali      4096 Jan 27 12:52 Documents
+drwxr-xr-x  2 kali kali      4096 Jan 27 12:52 Downloads
+-rw-r--r--  1 kali kali      2148 Apr 12 17:11 fine.txt
+drwx------  3 kali kali      4096 May 10 02:55 .gnupg
+-rw-------  1 kali kali      5826 May 10 02:55 .ICEauthority
+-rw-------  1 kali kali        34 Apr 24 16:50 .lesshsQ
+-rw-r--r--  1 kali kali  98566651 Nov 28 15:56 Lil Dicky  - Freaky Friday feat. Chris Brown (Official Music Video)-aZla1ttZHaw.mp4
+drwxr-xr-x  5 kali kali      4096 May 10 03:53 .local
+drwx------  5 kali kali      4096 Apr 12 07:20 .mozilla
+drwxr-xr-x  9 kali kali      4096 May  7 12:06 .msf4
+drwxr-xr-x  2 kali kali      4096 Jan 27 12:52 Music
+-rw-r--r--  1 kali kali       119 Apr 12 16:55 new.java
+-rw-r--r--  1 kali kali        26 May  6 03:36 new.txt
+-rw-r--r--  1 kali kali     12797 Apr 12 17:16 new.txt.save
+drwxr-xr-x  2 kali kali      4096 Apr 24 14:23 Pictures
+-rw-r--r--  1 kali kali       807 Jan 27 12:50 .profile
+drwxr-xr-x  2 kali kali      4096 Jan 27 12:52 Public
+drwxr-xr-x  2 kali kali      4096 Jan 27 12:52 Templates
+-rw-r-----  1 kali kali         4 May 10 02:55 .vboxclient-clipboard.pid
+-rw-r-----  1 kali kali         4 Apr 25 03:31 .vboxclient-display.pid
+-rw-r-----  1 kali kali         4 May 10 02:55 .vboxclient-draganddrop.pid
+-rw-r-----  1 kali kali         4 May 10 02:55 .vboxclient-seamless.pid
+drwxr-xr-x  2 kali kali      4096 Jan 27 12:52 Videos
+-rw-------  1 kali kali       638 Apr 12 17:05 .viminfo
+-rw-------  1 kali kali        49 May 10 02:55 .Xauthority
+-rw-------  1 kali kali     17619 May 10 05:26 .xsession-errors
+-rw-------  1 kali kali    560011 May  8 06:21 .xsession-errors.old

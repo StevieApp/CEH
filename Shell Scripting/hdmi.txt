@@ -1,0 +1,8 @@
+snd-hda-codec-hdmiko
+snd-soc-hdac-hdmiko
+snd-hda-codec-hdmiko
+snd-soc-hdac-hdmiko
+hdmih
+hdmih
+hdmih
+hdmih
